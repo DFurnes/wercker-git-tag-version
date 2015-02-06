@@ -1,0 +1,4 @@
+name: git-tag-version
+version: 0.0.1
+description: Create a versioned release tag on Github
+type: deploy
